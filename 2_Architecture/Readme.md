@@ -1,6 +1,8 @@
 # DESIGN
 ## HIGH LEVEL DISIGN
 given below is the flow graph of the system
+
+
 ![FLOW CHART](https://github.com/silwandeva/Stepin-Embedded-Implementation/blob/master/2_Architecture/flowchart.png)
 
 ## LOW LEVEL DESIGN
