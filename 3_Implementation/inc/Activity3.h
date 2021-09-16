@@ -1,9 +1,9 @@
 /**
  * @file Activity.h
- * @author devasilwan
+ * @author Chetan
  * @brief Project to find PWM an CRO
  * @version 0.1
- * @date 2021-09-16
+ * @date 2021-04-23
  * 
  */
 
