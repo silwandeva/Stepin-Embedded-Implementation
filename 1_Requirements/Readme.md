@@ -9,4 +9,22 @@ This is  cost effective application where we have features like controlling the 
 ## SWOT ANALYSIS
  * Strength: cost effective, user can change the temperature .
  * Weakness: Equatorial countries no use of this application
- * Opportunities: 
+ * Opportunities: it will work with irrespective of air condition
+ * Threats: This implementation is no suit for equator regions
+## 4W's and 1'H
+* WHAT :- Automobile seat heat Monitoring System.
+* WHERE :- Used in AutoMobiles.
+* When :- At Drastical low temperatures.
+* WHY :- for travelling longer distance comfortably.
+* HOW :- by changing to desired temperature.
+
+# Detail Requirements
+## High Level Requirements:
+
+Id.      |.      Description.     |. status(Implemented/Future)
+---------|------------------------|-----------------------------------
+HR01.    | Consumer can modify the temperature| Implemented
+HR02.    | 
+
+
+
