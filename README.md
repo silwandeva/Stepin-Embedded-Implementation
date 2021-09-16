@@ -13,6 +13,9 @@ Folder           | Description
 `4_Test plan.`     | Documents with test plans and procedures
 
 ## Badges
+|CI| Codacy|Code Inspector|
+|:--:|:--:|:--:|
+|[![CI](https://github.com/silwandeva/Stepin-Embedded-Implementation/actions/workflows/main.yml/badge.svg)](https://github.com/silwandeva/Stepin-Embedded-Implementation/actions/workflows/main.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2c76b16227e04bc2acf0e48b4f1d7e2a)](https://www.codacy.com/gh/silwandeva/Stepin-Embedded-Implementation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=silwandeva/Stepin-Embedded-Implementation&amp;utm_campaign=Badge_Grade)|![code Inspector](https://www.code-inspector.com/project/28753/status/svg)![code Inspector](https://www.code-inspector.com/project/28753/score/svg)
 
 ## Contributors lists and Summary
 
