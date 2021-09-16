@@ -1,15 +1,15 @@
 /**
- * @file Activity_2.c
- * @author devasilwan
+ * @file Activity2.c
+ * @author Chetan
  * @brief 
  * @version 0.1
- * @date 2021-09-16
+ * @date 2021-04-30
  * 
  * @copyright Copyright (c) 2021.
  * 
  */
-#include "Activity_1.h"
-#include "Activity_2.h"
+#include "Activity1.h"
+#include "Activity2.h"
 void InitADC()
 {
     ADMUX=(1<<REFS0);
