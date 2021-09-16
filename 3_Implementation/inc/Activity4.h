@@ -1,9 +1,9 @@
 /**
  * @file UART.h
- * @author Chetan()
+ * @author devasilwan
  * @brief Activity for UART serial communication
  * @version 0.1
- * @date 2021-04-30
+ * @date 2021-09-16
  * 
  * 
  */
