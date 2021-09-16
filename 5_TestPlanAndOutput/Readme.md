@@ -1,7 +1,5 @@
 # Test plan
-Test id.      |.    Description.     |.  Input.    | Output
---------------|----------------------|-------------|---------------------
-TD01          | user can modify the temperature | 29'Celsius| 29'Celsius
+
 
 
 
