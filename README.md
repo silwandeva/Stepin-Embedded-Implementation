@@ -18,7 +18,7 @@ Folder           | Description
 
 PS No. |          Name |No Test Cases|Test Case Pass|
 -------|----------------|------------|---------------
-99006088 | Deva Silwan  |      2      |    2      |
+99006088 | Deva Silwan  |      4      |    4      |
 
 
 ## Learning Resources
