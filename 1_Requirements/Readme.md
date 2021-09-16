@@ -3,7 +3,7 @@
 The Project Passenger Seat Heat Monitoring System using Simulid helps to set the temperature accordingly in the seat as user defined, This Project basically used broadly across the european countries because of the low temperature raises, this helps the passenger to gain extra comfort while driving in such drastical low temperatures, an automobile driver could experience localized cooling as his/her exposed body surfaces make contact with  the cold seat , back support and steering wheel, although the heating system within an automobile attempts to responds to the comfort needs of the driver, the thermal capacity of most of the cabin components limits the timely response of the heating system, resulting in the driver discomfort for the extended periods.  
 ![127529834-67af9309-282a-426a-a29f-1317b2294097](https://user-images.githubusercontent.com/62930320/133557189-94e87ad9-0637-44af-ac93-ca06cc033e67.jpeg)
 ## Benefits
-drastical low temperature like European countries Drivers can comfortably driver for longer hours.
+Drastical low temperature like European countries Driver and Passengers can comfortably drive for longer hours.
 ## Cost and Features
 This is  cost effective application where we have features like controlling the temperature and displaying the temperature
 ## SWOT ANALYSIS
@@ -24,7 +24,15 @@ This is  cost effective application where we have features like controlling the 
 Id.      |.      Description.     |. status(Implemented/Future)
 ---------|------------------------|-----------------------------------
 HR01.    | Consumer can modify the temperature| Implemented
-HR02.    | 
+HR02.    | Can detect whether consumer is seated or not| Implemented
+HR03.    | Modifying Temperature at each different seat | Future
+
+## Low Level Requirements:
+
+Id.      |  Description.          | Status(Implemented/Future)
+---------|------------------------|-------------------------------
+LR01.    | can display the Temperature| Implemeted
+
 
 
 
